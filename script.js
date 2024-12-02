@@ -1,8 +1,7 @@
-console.log("Script loaded correctly");
 window.onload = function () {
-let a = ' '
-let b = ' '
-let expressionResult = ' '
+let a = ''
+let b = ''
+let expressionResult = ''
 let selectedOperation = null
 outputElement = document.getElementById("result")
 digitButtons = document.querySelectorAll('[id ^= "btn_digit_"]')
