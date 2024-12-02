@@ -1,3 +1,4 @@
+console.log("Script loaded correctly");
 window.onload = function () {
 let a = ' '
 let b = ' '
